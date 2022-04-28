@@ -38,7 +38,7 @@ The 5 courses in this University of Michigan specialization introduce learners t
 ## References
 > [Specialization Coursera Link](https://www.coursera.org/specializations/data-science-python)
 
-> [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/7ZP7LBBDSGLX)
+> [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZSZRMS2ZW9UX)
 
 ## Provided By
 ![University of Michigan logo](https://github.com/Ashleshk/Applied-Data-Science-with-Python/blob/master/michiganlogo.jpg)
