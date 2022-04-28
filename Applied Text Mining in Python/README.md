@@ -41,4 +41,4 @@ School of Information
 ## References 
 > [Coursera](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
 
-> [Certificate](https://www.coursera.org/account/accomplishments/records/YPSLBDSDQDFZ)
+> [Certificate](https://www.coursera.org/account/accomplishments/certificate/GF6ZUGPXUAY4)
