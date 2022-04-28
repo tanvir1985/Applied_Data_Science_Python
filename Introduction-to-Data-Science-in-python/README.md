@@ -20,3 +20,8 @@ Taught by:  Christopher Brooks
 3. **Week-3-	Advanced Python Pandas**
 4. **Week-4-Statistical Analysis in Python** 
 5. **Project**
+
+## References 
+> [Coursera](https://www.coursera.org/learn/python-data-analysis)
+
+> [Certificate](https://www.coursera.org/account/accomplishments/certificate/Z684XQFMYFE3)
