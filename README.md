@@ -36,19 +36,19 @@ The 5 courses in this University of Michigan specialization introduce learners t
 ## 📙 Courses In Specilialization & certificates 
 
 
--[x][__Introduction to Data Science in python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Introduction%20to%20Data%20Science%20in%20Python_page-0001.jpg)
+- [x] [__Introduction to Data Science in python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Introduction%20to%20Data%20Science%20in%20Python_page-0001.jpg)
 
 <p align="center">
 <img src="/Certificates/Introduction%20to%20Data%20Science%20in%20Python_page-0001.jpg" width=60% height=60%>
 
 
--[x][__Applied Plotting, Charting & Data Representation in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python_page-0001.jpg)
+- [x] [__Applied Plotting, Charting & Data Representation in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python_page-0001.jpg)
 
 <p align="center">
 <img src="/Certificates/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python_page-0001.jpg" width=60% height=60%>
 
 
--[x][__Applied Machine Learning in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Machine%20Learning%20in%20Python_page-0001.jpg)
+- [x] [__Applied Machine Learning in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Machine%20Learning%20in%20Python_page-0001.jpg)
 
 <p align="center">
 <img src="/Certificates/Applied%20Machine%20Learning%20in%20Python_page-0001.jpg" width=60% height=60%>
@@ -60,7 +60,7 @@ The 5 courses in this University of Michigan specialization introduce learners t
 <img src="/Certificates/Applied%20Text%20Mining%20in%20Python_page-0001.jpg" width=60% height=60%>
 
 
--[x][__Applied Social Network Analysis in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Social%20Network%20Analysis%20in%20Python_page-0001.jpg)
+- [x] [__Applied Social Network Analysis in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Social%20Network%20Analysis%20in%20Python_page-0001.jpg)
 
 <p align="center">
 <img src="/Certificates/Applied%20Social%20Network%20Analysis%20in%20Python_page-0001.jpg" width=60% height=60%>
