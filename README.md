@@ -1,74 +1,99 @@
-# Applied Data Science with Python
+ ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+ [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/aditya-sahuji?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/aditya-sahuji) 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+# IBM Data Analyst Professional <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-## About this Specialization
+## 📍 About this Professional Certificate
+Gain the **job-ready skills** for an entry-level data analyst role through this eight-course Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
 
-The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization. After completing those, courses 4 and 5 can be taken in any order. All 5 are required to earn a certificate.
+Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
 
- This Repository Contains the Material And Concepts Learnt In Specialization Course of Coursera
-
-## WHAT YOU WILL LEARN
-* Conduct an inferential statistical analysis
-* Discern whether a data visualization is good or bad
-* Enhance a data analysis with applied machine learning
-* Analyze the connectivity of a social network
-
-## SKILLS GAINED THROUGHOUT THIS COURSE
-* Text Mining
-* Python Programming
-* Pandas
-* Matplotlib
-* Numpy
-* Data Cleansing
-* Data Virtualization
-* Data Visualization (DataViz)
-* Machine Learning (ML) Algorithms
-* Machine Learning
-* Scikit-Learn
-* Natural Language Toolkit (NLTK)
+---
 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="/Certificates/https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Data%20Science%20with%20Python_page-0001.jpg"
+<img src="/Certificates/IBM%20Data%20Analyst.PNG"
 
-## Courses In Specilialization & certificates
--[x][__Introduction to Data Science in python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Introduction%20to%20Data%20Science%20in%20Python_page-0001.jpg)
+---
+
+## 📙 Course Structures
+
+There are 9 Courses in this Professional Certificate Specialization are as follows:
+
+
+- [x] [__Introduction to Data Analytics__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Introduction%20to%20data%20analysis.jpg)
+
+
+This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
+
 <p align="center">
-<img src="/Certificates/Introduction%20to%20Data%20Science%20in%20Python_page-0001.jpg" width=60% height=60%>
+<img src="/Certificates/Introduction%20to%20data%20analysis.jpg" width=60% height=60%>
 
+- [x] [__Excel Basics for Data Analysis__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Excel%20basic%20for%20data%20analysis.jpg)
 
--[x][__Applied Plotting, Charting & Data Representation in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python_page-0001.jpg)
+This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
+
 <p align="center">
-<img src="/Certificates/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python_page-0001.jpg" width=60% height=60%>
+<img src="/Certificates/Excel%20basic%20for%20data%20analysis.jpg" width=60% height=60%>
 
 
--[x][__Applied Machine Learning in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Machine%20Learning%20in%20Python_page-0001.jpg)
+- [X] [__Data Visualization and Dashboards with Excel and Cognos__ ](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Data%20visualization%20and%20dashboard%20with%20excel%20and%20cognos.jpg)
+
+This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
+
 <p align="center">
-<img src="/Certificates/Applied%20Machine%20Learning%20in%20Python_page-0001.jpg" width=60% height=60%>
+<img src="/Certificates/Data%20visualization%20and%20dashboard%20with%20excel%20and%20cognos.jpg" width=60% height=60%>
 
+- [x] [__Python for Data Science, AI & Development__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Python%20for%20data%20science%2C%20AI%20%26%20development.jpg)
 
--[x][__Applied Text Mining in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Text%20Mining%20in%20Python_page-0001.jpg)
+Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
+
 <p align="center">
-<img src="/Certificates/Applied%20Text%20Mining%20in%20Python_page-0001.jpg" width=60% height=60%>
+<img src="/Certificates/Python%20for%20data%20science%2C%20AI%20%26%20development.jpg" width=60% height=60%>
 
--[x][__Applied Social Network Analysis in Python__](https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Social%20Network%20Analysis%20in%20Python_page-0001.jpg)
+- [X] [__Python Project for Data Science__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Python%20project%20for%20data%20science.jpg)
+
+This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
+
 <p align="center">
-<img src="/Certificates/Applied%20Social%20Network%20Analysis%20in%20Python_page-0001.jpg" width=60% height=60%>
+<img src="/Certificates/Python%20project%20for%20data%20science.jpg" width=60% height=60%>
 
- 
+- [x] [__Databases and SQL for Data Science__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Database%20and%20SQL%20for%20data%20science%20with%20python.jpg)
 
-## References
-> [Specialization Coursera Link](https://www.coursera.org/specializations/data-science-python)
+The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
-> [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ZSZRMS2ZW9UX)
+<p align="center">
+<img src="/Certificates/Database%20and%20SQL%20for%20data%20science%20with%20python.jpg" width=60% height=60%>
 
-## Provided By
-![University of Michigan logo](https://github.com/Ashleshk/Applied-Data-Science-with-Python/blob/master/michiganlogo.jpg)
+- [x] [__Data Analysis with Python__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Data%20Analysis%20with%20Python.jpg)
 
-University of Michigan
-The mission of the University of Michigan is to serve the people of Michigan and the world through preeminence in creating, communicating, preserving and applying knowledge, art, and academic values, and in developing leaders and citizens who will challenge the present and enrich the future.
+Learn how to analyze data using Python. Topics covered:
+
+1) Importing Datasets
+2) Cleaning the Data
+3) Data frame manipulation
+4) Summarizing the Data
+5) Building machine learning Regression models
+6) Building data pipelines
+
+<p align="center">
+<img src="/Certificates/Data%20Analysis%20with%20Python.jpg" width=60% height=60%>
+
+- [x] [__Data Visualization with Python__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_course/blob/main/Certificates/Data%20Visualization%20with%20Python.jpg)
+
+The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+
+<p align="center">
+<img src="/Certificates/Data%20Visualization%20with%20Python.jpg" width=60% height=60%> 
+
+- [x] [__IBM Data Analyst Capstone Project__](https://github.com/tanvir1985/IBM_Data_Analyst_Professional_certificate/blob/main/Certificates/Data%20Analysis%20with%20Python.jpg)
+
+In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
+
+<p align="center">
+<img src= "/Certificates/Data%20Analysis%20with%20Python.jpg" width=60% height=60%>
 
 ---
 <p>&copy; 2022 Mohammad Tanvir Hossain </p>
