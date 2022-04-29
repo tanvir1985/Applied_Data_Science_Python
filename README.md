@@ -31,7 +31,7 @@ The 5 courses in this University of Michigan specialization introduce learners t
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="/certificates/https://github.com/tanvir1985/Applied_Data_Science_Python/blob/main/certificates/Applied%20Data%20Science%20with%20Python_page-0001.jpg"
+<img src="/certificates/Applied%20Data%20Science%20with%20Python_page-0001.jpg"
 
 ## 📙 Courses In Specilialization & certificates 
 
