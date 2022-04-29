@@ -26,6 +26,8 @@ The 5 courses in this University of Michigan specialization introduce learners t
 * Scikit-Learn
 * Natural Language Toolkit (NLTK)
 
+---
+
 ## 🥇 Professional Certificate
 
 <p align="center">
